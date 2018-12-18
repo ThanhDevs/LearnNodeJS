@@ -4,7 +4,7 @@ Nhập môn Node.js
 ## Mục lục
 
 1. Node.js là gì?
-2. Event loop
+2. Event & loop
 3. Bắt đầu với HelloWorld đầu tiên
 4.  Xử lý Bất đồng bộ thật khó hiểu
 5. Tạo một server đơn giản với node.js
