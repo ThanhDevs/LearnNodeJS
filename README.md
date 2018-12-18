@@ -8,7 +8,7 @@ Nhập môn Node.js
 3. Bắt đầu với HelloWorld đầu tiên
 4.  Xử lý Bất đồng bộ thật khó hiểu
 5. Tạo một server đơn giản với node.js
-6. Thiết lập, cài đặt tệp
+6. Thiết lập config.js
 7. Đường dẫn URL
 8. Viết và đọc file HTML
 9. Làm việc với npm 
